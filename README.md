@@ -1,6 +1,6 @@
 # Hi there, I'm Suraj Pudale 👋
 
-!Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpudale&label=Profile%20views&color=0e75b6&style=flat" alt="surajpudale" /> </p>
 
 ## About Me
 
