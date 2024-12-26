@@ -21,7 +21,7 @@ A web-based application designed to interact with Kubernetes clusters. It allows
 ## Skills and Tools
 
 - **Languages**: Python, Powershell Script, Bash
-- **Tools**: Docker, Kubernetes, Ansible, Terraform, SaltStack, Helm
+- **Tools**: Docker, Kubernetes, Ansible, SaltStack, Terraform, Bicep, ARM Template, Helm
 - **Cloud**: Azure, AWS
 - **Other Skills**: DevOps, CI/CD, Microservices, Cloud Architecture, Automation
 
