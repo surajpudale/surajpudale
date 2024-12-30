@@ -29,6 +29,7 @@ A web-based application designed to interact with Kubernetes clusters. It allows
 
 - [LinkedIn](https://www.linkedin.com/in/suraj-pudale-2a730921/)
 - [GitHub](https://github.com/surajpudale)
+- [medium](https://medium.com/@spudale)
 
 ## Support
 
