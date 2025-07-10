@@ -10,7 +10,7 @@ I'm a passionate developer with a keen interest in Kubernetes and cloud technolo
 - 🌱 I’m currently learning more about Kubernetes, Docker, and cloud-native technologies
 - 👯 I’m looking to collaborate on DevOps and cloud projects
 - 💬 Ask me about Kubernetes, Docker, and cloud-native applications
-- 📫 How to reach me: surajpudale@gmail.com
+- 📫 How to reach me: spudale@gmail.com
 - ⚡ Fun fact: I love solving complex problems and automating workflows!
 
 ## Projects
