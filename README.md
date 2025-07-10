@@ -6,7 +6,7 @@
 
 I'm a passionate developer with a keen interest in Kubernetes and cloud technologies. I enjoy building web-based applications and exploring new tools and technologies.
 
-- 🔭 I’m currently working on K8s Insight Engine
+- 🔭 I’m currently working on Kubectl AI Assistant!
 - 🌱 I’m currently learning more about Kubernetes, Docker, and cloud-native technologies
 - 👯 I’m looking to collaborate on DevOps and cloud projects
 - 💬 Ask me about Kubernetes, Docker, and cloud-native applications
@@ -14,6 +14,8 @@ I'm a passionate developer with a keen interest in Kubernetes and cloud technolo
 - ⚡ Fun fact: I love solving complex problems and automating workflows!
 
 ## Projects
+### Kubectl AI Assistant! 🤖
+This tool is designed to make working with Kubernetes more intuitive by leveraging the power of AI to assist with kubectl commands. Whether you're a beginner trying to understand cluster operations or an expert looking to save time, this assistant can help streamline your workflow.
 
 ### K8s Insight Engine
 A web-based application designed to interact with Kubernetes clusters. It allows users to execute various commands to retrieve information about pods, logs, namespaces, and perform k8sgpt analysis. The application features a modern, user-friendly interface with a chat functionality.
